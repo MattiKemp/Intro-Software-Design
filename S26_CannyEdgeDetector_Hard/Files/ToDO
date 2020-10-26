@@ -1,0 +1,8 @@
+1. Fix vertical edge detector(it is slightly off check sample images)
+1. check whether hysteris is working properly or optimize it
+2. resize gui to accomadate an image
+2. Do the program.
+3. add guassian filter https://en.wikipedia.org/wiki/Canny_edge_detector
+3. implement video and maybe webcam.
+4. add other grey scale converters (should be easy).
+5. Optimize: use prewit gradient edge direction atan2(Gy, Gx)
